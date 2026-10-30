@@ -4,7 +4,12 @@
  "repo": "kumoi-no-fumigura/toochi-jikaawase",
  "yomi": "とおちとおただじかあわせ",
  "category": "歌合",
- "description": null,
+ "description": {
+  "kind": "自歌合（三十六番）",
+  "era": "戦国期",
+  "author": "十市遠忠（自撰）",
+  "desc": "大和の武将十市遠忠（兵部少輔中原遠忠）が、立春・初春から釈教・神祇祝までの自詠を三十六番に番えた自歌合。判者の名は記されないが、各番に判詞がある。"
+ },
  "editions": [
   {
    "pid": "1879502",
